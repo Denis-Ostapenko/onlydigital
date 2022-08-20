@@ -20,4 +20,5 @@ export const Title = styled.h1`
   font-weight: 700;
   font-size: 64px;
   line-height: 100%;
+  margin: 0;
 `;
